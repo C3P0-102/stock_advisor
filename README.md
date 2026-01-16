@@ -2,12 +2,13 @@
 
 Welcome to the demo version of StockPicker Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
 
-![kaching](https://github.com/user-attachments/assets/212d03ed-153f-4d91-9596-141d9dca0e88)
-<img 
-  src="https://github.com/user-attachments/assets/212d03ed-153f-4d91-9596-141d9dca0e88"
-  width="60%"
-/>
-
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/212d03ed-153f-4d91-9596-141d9dca0e88"
+    width=480px
+    height=480px
+  />
+</p>
 ## Installation
 
 Ensure you have Python >=3.10 <3.13 installed on your system. This project uses [UV](https://docs.astral.sh/uv/) for dependency management and package handling, offering a seamless setup and execution experience.
@@ -58,6 +59,7 @@ For support, questions, or feedback regarding the StockPicker Crew or crewAI.
 - [Chat with our docs](https://chatg.pt/DWjSBZn)
 
 Let's create wonders together with the power and simplicity of crewAI.
+
 
 
 
